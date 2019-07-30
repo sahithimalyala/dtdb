@@ -1,0 +1,5 @@
+FROM ubuntu:latest
+FROM adoptopenjdk/openjdk8
+WORKDIR /app
+COPY ./target/com.dtdb.worker-0.0.1-SNAPSHOT.jar /app/worker.jar
+CMD ["java","-jar","/app/worker.jar"]

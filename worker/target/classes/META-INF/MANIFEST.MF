@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: tech
+Build-Jdk: 11.0.3
+Implementation-Title: worker
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor-Id: com.dtdb
+Implementation-Vendor: Pivotal Software, Inc.
+Created-By: Maven Integration for Eclipse
+
